@@ -23,7 +23,7 @@ Designed to practice the build of several tests and run them separately or all a
 
 1 - Install the pytest-xdist package.
 2 - Specify pytest as the project testing framework under the Setting menu > Tools > Python integrated tools > Testing (applies to PyCharm users).
-3 - Right click your tests > Modify run configurations.
+3 - Right-click your tests > Modify run configurations.
 4 - in the **Additional Arguments** field, add **-n 4** if you need to run 4 tests in parallel.
 
 
@@ -41,7 +41,7 @@ Please make sure that the required libraries and frameworks are installed for pr
 
 ### Usage:
 
-### scripts .py files
+### scripts.py files
 
 To use the specific .py files:
 
